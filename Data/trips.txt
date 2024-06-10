@@ -1,0 +1,11 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id
+1,1,T1,To Downtown,Short 1,0,1,1
+1,1,T2,To Suburbs,Short 2,1,1,1
+2,1,T3,To Downtown,Short 1,0,2,2
+2,1,T4,To Suburbs,Short 2,1,2,2
+3,1,T5,To Downtown,Short 1,0,3,3
+3,1,T6,To Suburbs,Short 2,1,3,3
+4,1,T7,To Downtown,Short 1,0,4,4
+4,1,T8,To Suburbs,Short 2,1,4,4
+5,1,T9,To Downtown,Short 1,0,5,5
+5,1,T10,To Suburbs,Short 2,1,5,5
