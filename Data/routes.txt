@@ -1,11 +1,11 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-1,1,R1,Route 1,First Route,3,,0000FF,FFFFFF
-2,1,R2,Route 2,Second Route,3,,FF0000,FFFFFF
-3,1,R3,Route 3,Third Route,3,,00FF00,FFFFFF
-4,1,R4,Route 4,Fourth Route,3,,FFFF00,000000
-5,1,R5,Route 5,Fifth Route,3,,FF00FF,FFFFFF
-6,1,R6,Route 6,Sixth Route,3,,00FFFF,000000
-7,1,R7,Route 7,Seventh Route,3,,FFFFFF,000000
-8,1,R8,Route 8,Eighth Route,3,,000000,FFFFFF
-9,1,R9,Route 9,Ninth Route,3,,888888,000000
-10,1,R10,Route 10,Tenth Route,3,,444444,FFFFFF
+"route_id","agency_id","route_short_name","route_long_name","route_desc","route_type","route_url","route_color","route_text_color","route_sort_order","continuous_pickup","continuous_drop_off"
+"2335-BR","2335-kts","Blue","","","3","","FFFFFF","000000","","",""
+"2335-CR","2335-kts","Campus","","","3","","FFFFFF","000000","","",""
+"2335-FR1","2335-kts","Fun_1","","","3","","FFFFFF","000000","","",""
+"2335-FR2","2335-kts","Fun_2","","","3","","FFFFFF","000000","","",""
+"2335-GYR","2335-kts","Gray","","","3","","FFFFFF","000000","","",""
+"2335-GR","2335-kts","Green","","","3","","FFFFFF","000000","","",""
+"2335-OR","2335-kts","Orange","","","3","","FFFFFF","000000","","",""
+"2335-PR","2335-kts","Purple","","","3","","FFFFFF","000000","","",""
+"2335-RR","2335-kts","Red","","","3","","FFFFFF","000000","","",""
+"2335-YR","2335-kts","Yellow","","","3","","FFFFFF","000000","","",""
